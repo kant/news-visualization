@@ -1,7 +1,7 @@
 # news-visualization
 Watson Discovery News Visualization
 
-A [D3.js](https://d3js.org/) visualization using the pre-enriched news content avaialable as part of the [Watson Discovery Service](https://www.ibm.com/watson/developercloud/discovery.html)
+A [D3.js](https://d3js.org/) visualization using the pre-enriched news content available as part of the [Watson Discovery Service](https://www.ibm.com/watson/developercloud/discovery.html)
 
 To get started, provision an instance of Discovery on [Bluemix](https://console.ng.bluemix.net/)
 
